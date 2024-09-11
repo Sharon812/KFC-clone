@@ -143,6 +143,7 @@ body{
 }
 .sec4{
     background-color: rgba(0, 0, 0, 0.884);
+    padding-bottom: 130px;
     
     height: 700px;
     padding-left: 189px;
@@ -214,6 +215,7 @@ footer{
     width: 100%;
     height: 400px;
     display: flex;
+    padding-top: 90px;
 }
 .links a{
     text-decoration: none;
